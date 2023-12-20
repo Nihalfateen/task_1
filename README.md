@@ -1,4 +1,4 @@
-# task_1
+# banking_app
 
 A new Flutter project.
 
